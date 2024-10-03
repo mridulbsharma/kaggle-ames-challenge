@@ -1,4 +1,4 @@
-# Ames Housing Data Analysis and Price Prediction
+# Kaggle Challenge - Ames Housing Data Analysis and Price Prediction: To Fit or Not to Fit
 
 ## Table of Contents
 1. [Introduction](#introduction)
