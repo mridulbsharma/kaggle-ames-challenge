@@ -1,7 +1,5 @@
 # Ames Housing Data Analysis and Price Prediction
 
-![Ames, Iowa Skyline](https://media.giphy.com/media/3o7TKsRSpVPkgNcwww/giphy.gif)
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Problem Statement](#problem-statement)
@@ -66,8 +64,6 @@ Our analysis yielded several key insights into the Ames housing market:
    - Overall Quality: For each one-point increase in overall quality, the sale price is expected to increase by approximately $19,590, ceteris paribus.
    - Year Built: Each year of a house's age is associated with an increase in sale price of about $3,680, holding all else constant.
    - Garage Capacity: An additional car capacity in the garage corresponds to an increase of approximately $3,740 in sale price, ceteris paribus.
-
-![Feature Importance](https://media.giphy.com/media/3o7btNjO2jyPfVUZ9u/giphy.gif)
 
 These findings provide valuable insights for real estate professionals and potential homebuyers in the Ames area, highlighting the most significant factors that contribute to a property's value.
 
